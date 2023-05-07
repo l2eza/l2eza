@@ -1,6 +1,4 @@
-#### Hi there 👋
-
-### 🔭 I’m currently working on something cool!
+### Hi there 👋
 ### :electron: I’m currently learning Front-End Engineer with [@Codecademy](https://github.com/Codecademy)!
 ### 💬 Ask me about Motion Graphic Design!
 ### :atom: I’m looking to collaborate on Game developement projects! 🎮
