@@ -1,5 +1,5 @@
 ### Hi there 👋
-### :electron: I’m currently learning Front-End Engineer with [@Codecademy](https://github.com/Codecademy)!
+### :electron: I’m currently learning Front-End Engineer with [@Codecademy](https://github.com/Codecademy) & [@LinkedInLearning](https://github.com/LinkedInLearning)!
 ### 💬 Ask me about Motion Graphic Design!
 ### :octocat: I’m looking to collaborate on Game developement projects! 🎮
 ## 📫 How to reach me: contact@reza.social
