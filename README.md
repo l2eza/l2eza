@@ -4,11 +4,12 @@
 #### :octocat: I’m looking to collaborate on Game developement projects! 🎮
 #### 💬 Ask me about Motion Graphic Design!
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mrezah" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lb.linkedin.com/in/mrezah?trk=profile-badge">Mohammadreza Hassani</a></div>
-              
+<a href="https://www.linkedin.com/in/mrezah/">
+<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="width:20px;height:20px;">
+  </a>              
               
 
-##### Unleash the Power of Visual Storytelling! 🎬✨
+### Unleash the Power of Visual Storytelling! 🎬✨
 ##### Ready to bring your ideas to life with captivating motion graphics and exceptional graphic design? Look no further! I'm an accomplished motion graphic designer and graphic designer, skilled in HTML, CSS, and JavaScript. Let's turn your vision into a stunning reality!
 
 ##### 🎨 Ignite Creativity | 🌐 Web Wizardry | 💼 Visual Alchemy
