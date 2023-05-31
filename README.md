@@ -17,7 +17,7 @@ Ready to bring your ideas to life with captivating motion graphics and exception
 Ready to embark on a creative journey together? Shoot me an email at contact@reza.social to discuss your project or explore exciting opportunities!
 📧 Email: contact@reza.social
 Don't let your vision fade away! Partner with a passionate motion graphic designer and graphic designer who can bring it to life. Contact me today!
-#MotionGraphics #GraphicDesign #WebDesign #VisualStorytelling #HTML #CSS #JavaScript #CreativeAlchemy
+
 <!--
 **l2eza/l2eza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
