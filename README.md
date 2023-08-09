@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/mrezah/">
-<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="width:33px;height:33px;">
+<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="width:25px;height:25px;">
   </a>
 
 #### :electron: I’m currently learning Creative Coding & Front-End Engineer with [@Codecademy](https://github.com/Codecademy) & [@LinkedInLearning](https://github.com/LinkedInLearning)!
