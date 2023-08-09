@@ -12,7 +12,7 @@
               
 
 ### Unleash the Power of Visual Storytelling! 🎬✨
-##### Ready to bring your ideas to life with captivating motion graphics and exceptional graphic design? Look no further! I'm an accomplished motion graphic designer and graphic designer, skilled in HTML, CSS, and JavaScript. Let's turn your vision into a stunning reality!
+##### Ready to bring your ideas to life with captivating motion graphics and exceptional graphic design? Look no further! I'm an accomplished motion graphic designer and graphic designer, skilled in HTML, CSS, JavaScript and Swift. Let's turn your vision into a stunning reality!
 
 ##### 🎨 Ignite Creativity | 🌐 Web Wizardry | 💼 Visual Alchemy
 
