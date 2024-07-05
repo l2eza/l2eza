@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/mrezah/">
+<a href="https://www.linkedin.com/in/rezm/">
 <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="width:25px;height:25px;">
   </a>
 
