@@ -22,10 +22,6 @@
 
 ##### 🌐 Web Design: Transform your online presence with sleek and responsive websites that showcase your unique style. Seamlessly integrate captivating motion graphics to create an immersive user experience.
 
-##### Ready to embark on a creative journey together? Shoot me an email at contact@reza.social to discuss your project or explore exciting opportunities!
-
-##### 📧 Email: contact@reza.social
-
 ##### Don't let your vision fade away! Partner with a passionate motion graphic designer and graphic designer who can bring it to life. Contact me today!
 
 <!--
